@@ -29,7 +29,10 @@ export function Hero() {
           <h1 className="mt-6 font-display text-4xl font-semibold tracking-tight text-foreground text-balance sm:text-5xl">
             Project <span className="text-gradient-blue">Resonance</span> — A DIY 2.1 Audio System
           </h1>
-          <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground text-pretty">
+          <p className="mt-4 max-w-xl text-lg font-medium text-foreground text-pretty">
+            Built, tested, and tuned as a hands-on audio project.
+          </p>
+          <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground text-pretty">
             A hands-on project exploring speaker design, amplification, power delivery and enclosure integration.
           </p>
 
